@@ -33,16 +33,16 @@ Feel free to copy any of my work, just please credit me. Check out my repositori
 
 <h3 align="center">🧰 Languages and Tools</h3>
 
-<img alt="FIREFOX" width="30px" style="padding-right: 10px;" src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
-<img alt="SQLITE" width="30px" style="padding-right: 10px;" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
-<img alt="SASS" width="30px" style="padding-right: 10px;" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
-<img alt="OBSIDIAN" width="30px" style="padding-right: 10px;" src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white">
-<img alt="VIM" width="30px" style="padding-right: 10px;" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
-<img alt="VSC" width="30px" style="padding-right: 10px;" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img alt="HTML5" width="30px" style="padding-right: 10px;" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img alt="CSS3" width="30px" style="padding-right: 10px;" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-<img alt="JS" width="30px" style="padding-right: 10px;" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<img alt="ARCH" width="30px" style="padding-right: 10px;" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
+<img alt="FIREFOX" style="padding-right: 10px; display: inline-block;" src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
+<img alt="SQLITE" style="padding-right: 10px; display: inline-block;" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+<img alt="SASS" style="padding-right: 10px; display: inline-block;" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+<img alt="OBSIDIAN" style="padding-right: 10px; display: inline-block;" src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white">
+<img alt="VIM" style="padding-right: 10px; display: inline-block;" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
+<img alt="VSC"  style="padding-right: 10px; display: inline-block;" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img alt="HTML5"  style="padding-right: 10px; display: inline-block;" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img alt="CSS3"  style="padding-right: 10px; display: inline-block;" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+<img alt="JS"  style="padding-right: 10px; display: inline-block;" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img alt="ARCH"  style="padding-right: 10px; display: inline-block;" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
 
 
 <br />
