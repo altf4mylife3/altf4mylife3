@@ -44,7 +44,6 @@ Feel free to copy any of my work—just please credit me! Check out my repositor
 <h3 align="center">🧰 Languages and Tools</h3>
 
 <p align="center">
-  <img alt="FIREFOX" src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
   <img alt="SQLITE" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
   <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
   <img alt="OBSIDIAN" src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white">
